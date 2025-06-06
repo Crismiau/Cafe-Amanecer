@@ -1,0 +1,25 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs y archivos temporales
+*.log
+*.tmp
+.env
+
+# Dependencias y directorios de construcción
+node_modules/
+dist/
+build/
+
+# Archivos de respaldo
+*~
+*.bak
+*.swp 
