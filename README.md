@@ -22,8 +22,13 @@
 
 ## 📸 Capturas de Pantalla
 
-![Vista Principal](./assets/screenshots/main.png)
 _¡La vista que enamora a primera vista!_
+
+![image](https://github.com/user-attachments/assets/281a2128-7c91-424d-bdec-37f8c1ff2e98)
+![image](https://github.com/user-attachments/assets/8a204ea1-145a-4616-95e5-cd3814358e64)
+![image](https://github.com/user-attachments/assets/9e44f4bd-7ed3-4ae3-a312-aa780aaf0482)
+![image](https://github.com/user-attachments/assets/f50316cb-7d21-4937-ab5c-4571d70d0d0e)
+![image](https://github.com/user-attachments/assets/e52c015a-494d-4d6e-a086-968e60fb84e0)
 
 ## 🎉 Logros Alcanzados
 
@@ -48,16 +53,15 @@ Este proyecto fue una montaña rusa de aprendizaje donde pude mejorar mis habili
 Un agradecimiento especial a:
 
 - 🏫 Riwi por retarme a dar lo mejor de mí
-- 👨‍🏫 A mis instructores por su guía
-- ☕ Al café, mi fiel compañero durante las largas horas de código
+- 👨‍🏫 A mi tutor @S12-Chawis por la explicación de muchos temas relacionados con CSS3
+- ☕ Al café, mi fiel compañero durante las largas horas de código. ¿Qué mejor que crear una cafeteria con un buen cafe? Fueron 3 tazas de café muy bien aprovechadas.
 
 ## 📬 Contacto
 
 ¿Quieres charlar sobre código, café o ambos? ¡Encuéntrame aquí!
 
-- 📧 [Mi Email](mailto:tu-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🐱 [GitHub](https://github.com/tu-usuario)
+- 📧 [Mi correo electrónico](mailto:heycristian26@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristian-camilo-agudelo-3198b42a6/)
 
 ## 🚀 Instalación y Uso
 
@@ -78,4 +82,4 @@ Este proyecto está bajo la licencia MIT - mira el archivo [LICENSE.md](LICENSE.
 
 ⭐️ ¡Si te gustó este proyecto, no olvides dejar tu estrellita! ⭐️
 
-Hecho con 💖 y mucho ☕ por [Tu Nombre]
+Hecho con 💖 y mucho ☕ por Cristian Agudelo.
