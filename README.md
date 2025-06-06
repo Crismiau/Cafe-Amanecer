@@ -1,4 +1,4 @@
-![Captura de pantalla 2025-06-05 204908](https://github.com/user-attachments/assets/9047599e-6f69-4bc6-aa92-ef1944378f22)# 🌅 Café Amanecer - El Desafío Extremo de Riwi ☕
+## 🌅 Café Amanecer - El Desafío Extremo de Riwi ☕
 
 ## 🎯 El Reto
 
