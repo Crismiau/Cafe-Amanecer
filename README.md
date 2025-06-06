@@ -1,4 +1,4 @@
-# 🌅 Café Amanecer - El Desafío Extremo de Riwi ☕
+![Captura de pantalla 2025-06-05 204908](https://github.com/user-attachments/assets/9047599e-6f69-4bc6-aa92-ef1944378f22)# 🌅 Café Amanecer - El Desafío Extremo de Riwi ☕
 
 ## 🎯 El Reto
 
@@ -24,11 +24,11 @@
 
 _¡La vista que enamora a primera vista!_
 
-![image](https://github.com/user-attachments/assets/281a2128-7c91-424d-bdec-37f8c1ff2e98)
-![image](https://github.com/user-attachments/assets/8a204ea1-145a-4616-95e5-cd3814358e64)
-![image](https://github.com/user-attachments/assets/9e44f4bd-7ed3-4ae3-a312-aa780aaf0482)
-![image](https://github.com/user-attachments/assets/f50316cb-7d21-4937-ab5c-4571d70d0d0e)
-![image](https://github.com/user-attachments/assets/e52c015a-494d-4d6e-a086-968e60fb84e0)
+![Captura de pantalla 2025-06-05 204908](https://github.com/user-attachments/assets/320bed27-8197-4879-a9f0-1141574b6ad5)
+![Captura de pantalla 2025-06-05 205029](https://github.com/user-attachments/assets/4ff3859a-34e2-4b08-b3b2-f8191c5c880c)
+![Captura de pantalla 2025-06-05 205044](https://github.com/user-attachments/assets/b3c347af-7d32-4f3e-bbb8-062d85fae6c3)
+![Captura de pantalla 2025-06-05 205113](https://github.com/user-attachments/assets/3c10a18c-d8f8-4a21-85d4-eec52ff64e60)
+![Captura de pantalla 2025-06-05 205015](https://github.com/user-attachments/assets/e9266c9f-19c0-482b-9ed8-9fd7b270d0c9)
 
 ## 🎉 Logros Alcanzados
 
